@@ -1,4 +1,4 @@
-//2015112232백근주
+
 package LAB10_03;
 
 public class MessageBox implements Product {
