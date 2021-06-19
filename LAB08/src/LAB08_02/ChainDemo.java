@@ -1,4 +1,4 @@
-//2015112232백근주
+
 package LAB08_02;
 
 public class ChainDemo {
