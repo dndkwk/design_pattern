@@ -1,4 +1,4 @@
-//2015112232백근주
+
 //DogBot인터페이스를 받고 구현하는 클래스
 //생성할때 hungry,tired,name을 저장하고 getName()으로 name을 반환하게 만든다.
 package LAB07_03;

@@ -1,4 +1,4 @@
-//2015112232백근주
+
 //DogBot객체를 받아서 관찰 할 수 있는 객체로 바꿔주는 클래스, Observable을 상속한다.
 //생성할때 DogBot객체를 받아 저장하고 그 객체의 name도 저장한다.
 //DogBot인터페이스 선언된 함수를 구현한다. 함수 실행할때 마다 update할수 있게 setChange와 notifyObservers를 호출한다.

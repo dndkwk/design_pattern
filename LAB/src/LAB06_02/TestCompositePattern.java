@@ -1,4 +1,4 @@
-//2015112232백근주
+
 //Shape 변수를 생성하고 Drawing 변수에 추가한 뒤에 draw,clear를 호출한다. 
 package LAB06_02;
 

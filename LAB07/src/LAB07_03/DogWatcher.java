@@ -1,4 +1,4 @@
-//2015112232백근주
+
 //Observer인터페이스를 받는 DogBot을 관찰하는 객체이다. DogBot이 바뀔때마다 update를 해준다.
 package LAB07_03;
 
